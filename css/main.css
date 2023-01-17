@@ -2,7 +2,7 @@
 /* visual */
 .visual {
   margin-top: 120px; /* header(inner) 높이 값*/
-  background-image: url("./images/visual_bg.jpg");
+  background-image: url("../images/visual_bg.jpg");
   background-position: center;
 }
 
@@ -207,7 +207,7 @@
 
 .notice .promotion .swiper-pagination .swiper-pagination-bullet {
   background-color:transparent;
-  background-image: url("./images/promotion_slide_pager.png");
+  background-image: url("../images/promotion_slide_pager.png");
   width: 12px;
   height: 12px;
   margin-right: 6px;
@@ -219,7 +219,7 @@
 }
 
 .notice .promotion .swiper-pagination .swiper-pagination-bullet-active {
-  background-image: url("./images/promotion_slide_pager_on.png");
+  background-image: url("../images/promotion_slide_pager_on.png");
 }
 
 .notice .promotion .swiper-prev, 
@@ -280,7 +280,7 @@
 }
 
 .rewards .inner {
-  background-image: url("./images/rewards.jpg");
+  background-image: url("../images/rewards.jpg");
   height: 241px;
 }
 
@@ -334,7 +334,7 @@
 }
 
 .youtube .youtube__cover {
-  background-image: url("./images/video_cover_pattern.png");
+  background-image: url("../images/video_cover_pattern.png");
   background-color: rgba(0,0,0,.3);
   position: absolute;
   top: 0;
@@ -369,7 +369,7 @@
 
 /* season-product */
 .season-product {
-  background-image: url("./images/season_product_bg.jpg");
+  background-image: url("../images/season_product_bg.jpg");
 }
 
 .season-product .inner {
@@ -402,7 +402,7 @@
 
 /* reserve-coffee */
 .reserve-coffee {
-  background-image: url("./images/reserve_bg.jpg");
+  background-image: url("../images/reserve_bg.jpg");
 
 }
 
@@ -431,7 +431,7 @@
 
 /* pick-your-favorite */
 .pick-your-favorite {
-  background-image: url("./images/favorite_bg.jpg");
+  background-image: url("../images/favorite_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -462,7 +462,7 @@
 
 /* reserve-store */
 .reserve-store {
-  background-image: url("./images/reserve_store_bg.jpg");
+  background-image: url("../images/reserve_store_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -517,7 +517,7 @@
 
 /* find the store */
 .find-store {
-  background-image: url("./images/find_store_bg.jpg");
+  background-image: url("../images/find_store_bg.jpg");
 }
 
 .find-store .inner {
